@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joeyparrish.twa.othello",
+      "sha256_cert_fingerprints": [
+        "2E:BB:2C:A8:C0:DE:20:3F:DF:70:FB:9A:A9:0E:E5:7C:8F:BD:89:4B:05:3B:11:94:E2:DC:2A:40:F2:4E:3D:76"
+      ]
+    }
+  }
+]
