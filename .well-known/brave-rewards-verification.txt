@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joeyparrish.github.io
+Token: e19bba8b9ae987ed47894d0d25e4659a322bff4ce282cf63976ff6037543c9cf
