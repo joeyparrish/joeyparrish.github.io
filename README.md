@@ -59,7 +59,7 @@
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/google/triage-party/">
-        <img alt="Triage Party logo" src="logos/Triage Party.png"><br>
+        <img alt="Triage Party logo" src="logos/Triage-Party.png"><br>
         Triage Party
       </a></h4>
       Manage issues across GitHub repositories.
@@ -116,7 +116,7 @@
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://joeyparrish.github.io/wordles-with-friends/">
-        <img alt="Wordles with Friends logo" src="logos/Wordles with Friends.png"><br>
+        <img alt="Wordles with Friends logo" src="logos/Wordles-with-Friends.png"><br>
         Wordles with Friends
       </a></h4>
       Pick a word and challenge your friends!<br>
