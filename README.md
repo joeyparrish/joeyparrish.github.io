@@ -83,8 +83,8 @@
     <td valign="top" align="center" width="25%">
       <h4>EME Spec Editor @W3C</h4>
       <ul align="left">
-        <li><a href="https://github.com/w3c/encrypted-media/">GitHub</a>
-        <li><a href="https://w3c.github.io/encrypted-media/">Editor's Draft</a>
+        <li><a href="https://github.com/w3c/encrypted-media/">GitHub</a></li>
+        <li><a href="https://w3c.github.io/encrypted-media/">Editor's Draft</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
@@ -96,8 +96,8 @@
       <h5>EME Logger Chrome Extension</h5>
       Logs and debugs all activity through EME and related media APIs.
       <ul align="left">
-        <li><a href="https://github.com/shaka-project/eme_logger/">GitHub</a>
-        <li><a href="https://chrome.google.com/webstore/detail/eme-call-and-event-logger/cniohcjecdcdhgmlofniddfoeokbpbpb">Chrome Web Store</a>
+        <li><a href="https://github.com/shaka-project/eme_logger/">GitHub</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/eme-call-and-event-logger/cniohcjecdcdhgmlofniddfoeokbpbpb">Chrome Web Store</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
@@ -121,8 +121,8 @@
       </a></h4>
       Pick a word and challenge your friends!<br>
       <ul align="left">
-        <li><a href="https://github.com/joeyparrish/wordles-with-friends/">GitHub</a>
-        <li><a href="https://joeyparrish.github.io/wordles-with-friends/">Play in Browser</a>
+        <li><a href="https://github.com/joeyparrish/wordles-with-friends/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/wordles-with-friends/">Play in Browser</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
@@ -134,8 +134,8 @@
       Pass-and-play while offline (PWA), or play over the internet
       peer-to-peer with WebRTC.<br>
       <ul align="left">
-        <li><a href="https://github.com/joeyparrish/othello/">GitHub</a>
-        <li><a href="https://joeyparrish.github.io/othello/">Play in Browser</a>
+        <li><a href="https://github.com/joeyparrish/othello/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/othello/">Play in Browser</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
@@ -147,8 +147,8 @@
       You play as a NASA intern working on the Apollo 11 project, and
       nothing goes wrong!<br>
       <ul align="left">
-        <li><a href="https://github.com/joeyparrish/moonshot/">GitHub</a>
-        <li><a href="https://joeyparrish.github.io/moonshot/">Play in Browser</a>
+        <li><a href="https://github.com/joeyparrish/moonshot/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/moonshot/">Play in Browser</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
@@ -158,7 +158,7 @@
       </h4>
       A Valheim mod where you must catch monsters to fight for you.<br>
       <ul align="left">
-        <li>Coming soon!
+        <li>Coming soon!</li>
       </ul>
     </td>
   </tr>
@@ -175,7 +175,7 @@
       </a></h4>
       Wireless PS3 controllers on 8-bit and 16-bit consoles.<br>
       <ul align="left">
-        <li><a href="https://github.com/joeyparrish/RetCon/">GitHub</a>
+        <li><a href="https://github.com/joeyparrish/RetCon/">GitHub</a></li>
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
