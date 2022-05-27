@@ -1,2 +1,8 @@
 # Folders with dotfiles are ignored by default.
 include: [.well-known]
+
+title: Joey Parrish
+email: joey.parrish@gmail.com
+description: |
+  About Joey Parrish and his projects.
+github_username: joeyparrish

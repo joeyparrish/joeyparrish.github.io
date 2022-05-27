@@ -2,4 +2,5 @@
 
 cd $(dirname "$0")
 
-npx markserv
+bundle install
+bundle exec jekyll serve
